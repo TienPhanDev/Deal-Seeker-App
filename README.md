@@ -17,11 +17,7 @@ of the application use with help from the CheapShark API, so you can game comfor
 There is no need for additional software at this time, and everything can be accessed through the friendly command line interface we've provided 
 for you.  Simply run the program (ruby run.rb) in your favorite terminal or code editor to begin!
 
-Any questions or comments or contribution ideas can be forwarded to the project owners at:
-Steve Pesce @Github ID:sPesce
-Tien Phan @Github ID: TienPhanDev
-
-This program uses the Cheap Shark api
+This program uses the Cheap Shark api<br/>
 [https://apidocs.cheapshark.com/?version=latest]
 
 ## Author
