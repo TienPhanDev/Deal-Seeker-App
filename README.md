@@ -1,4 +1,10 @@
-# DEAL SEEKER 
+<h1 align="center">Welcome to Game Seeker 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://choosealicense.com/licenses/mit/" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
 Hello! And welcome to our App. Game Seeker!  Game Seeker is intended to provide you, the user with a means of
 searching our up to the minute database of computer game deals for something to enjoy.  You can search for specific titles or view 
@@ -12,8 +18,25 @@ There is no need for additional software at this time, and everything can be acc
 for you.  Simply run the program (ruby run.rb) in your favorite terminal or code editor to begin!
 
 Any questions or comments or contribution ideas can be forwarded to the project owners at:
-Steve Pesce @ Github ID:sPesce
-Tien Phan @ Github ID: tienphan1989
+Steve Pesce @Github ID:sPesce
+Tien Phan @Github ID: TienPhanDev
 
 This program uses the Cheap Shark api
 [https://apidocs.cheapshark.com/?version=latest]
+
+## Author
+
+👨‍💻 **Tien Phan**
+
+* Website: https://www.medicine2code.com
+* Github: [@TienPhanDev](https://github.com/TienPhanDev)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/tien-phan-DC\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/tien-phan-DC\/)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2020 [Tien Phan](https://github.com/TienPhanDev).<br />
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
